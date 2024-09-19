@@ -1,0 +1,56 @@
+* {
+    background-color: rgb(255, 228, 78);
+    color: skyblue;
+}
+
+.best,#date {
+    color: red;
+
+}
+.best {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifSS;
+}
+
+#date {
+    font-weight: bold;
+}
+
+#title {
+    text-align: center;
+    font-size: 100px;
+    
+    
+
+}
+#img
+{
+    position: absolute;
+   top: 0;
+   right: 0;
+   width: 200px;
+height:auto;
+
+}
+.Founders
+{
+    text-align: left;
+    font-size: 37px;
+    color: blue;
+    
+}
+#Founders
+{
+    color: darkblue;
+}
+#video {
+    margin: 0 auto;
+    display: block;
+    width:1000px;
+    height: 800px;
+    align-items: center;
+}
+#ourshoes
+{
+    font-size: 50px;
+}
